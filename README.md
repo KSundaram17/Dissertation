@@ -1,2 +1,2 @@
 # Dissertation
-This repository contains ipynb file for the code used in the thesis
+This repository contains ipynb file for the complete code used in the thesis
